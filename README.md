@@ -2,7 +2,11 @@
 
 REST API + real-time server cho ứng dụng quản lý nhà hàng WaiterApp, xây dựng bằng Kotlin và Spring Boot.
 
-App Android: [WaiterApp](https://github.com/dinh11032002/WaiterAppBackend)
+![Kotlin](https://img.shields.io/badge/Language-Kotlin-purple?logo=kotlin)
+![Backend](https://img.shields.io/badge/Backend-Spring%20Boot-brightgreen?logo=springboot)
+![Architecture](https://img.shields.io/badge/Architecture-MVC-blue)
+
+App Android: [WaiterApp](https://github.com/dinh11032002/WaiterApp_Backend)
 
 ## Giới thiệu
 
